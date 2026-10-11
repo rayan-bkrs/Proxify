@@ -9,3 +9,4 @@ https://raw.githubusercontent.com/Anonym0usWork1221/Free-Proxies/main/proxy_file
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt
 https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/https/https.txt
 https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/http/http.txt
+https://rcloak.com/api/proxies/raw?protocol=http
